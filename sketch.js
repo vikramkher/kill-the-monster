@@ -25,24 +25,24 @@ function setup() {
   fly=new Fly(superhero.body,{x:250,y:50})
  
 
-  tower1=new Tower(500,50,30,50)
-  tower2=new Tower(500,100,30,50)
-  tower3=new Tower(500,150,30,50)
-  tower4=new Tower(500,200,30,50)
-  tower5=new Tower(500,250,30,50)
+  tower1=new Tower(530,50,30,50)
+  tower2=new Tower(530,100,30,50)
+  tower3=new Tower(530,150,30,50)
+  tower4=new Tower(530,200,30,50)
+  tower5=new Tower(530,250,30,50)
   
 
- tower6=new Tower(600,50,30,50)
- tower7=new Tower(600,100,30,50)
- tower8=new Tower(600,150,30,50)
- tower9=new Tower(600,200,30,50)
- tower10=new Tower(600,250,30,50)
+  tower6=new Tower(650,50,30,50)
+  tower7=new Tower(650,100,30,50)
+  tower8=new Tower(650,150,30,50)
+  tower9=new Tower(650,200,30,50)
+  tower10=new Tower(650,250,30,50)
 
-  tower11=new Tower(700,50,30,50)
-  tower12=new Tower(710,100,30,50)
-  tower13=new Tower(700,150,30,50)
-  tower14=new Tower(700,200,30,50)
-  tower15=new Tower(700,250,30,50)
+  tower11=new Tower(590,50,30,50)
+  tower12=new Tower(590,100,30,50)
+  tower13=new Tower(590,150,30,50)
+  tower14=new Tower(590,200,30,50)
+  tower15=new Tower(590,250,30,50)
   
   
 
