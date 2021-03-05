@@ -3,7 +3,7 @@ class Fly{
         var options = {
             bodyA: bodyA,
             pointB: pointB,
-            stiffness: 1.2,
+            stiffness: 0.7,
             length: 150
         }
         this.pointB = pointB
